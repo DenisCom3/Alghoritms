@@ -1,7 +1,7 @@
-import java.util.ArrayList;
+package Learning;
+
 import java.util.LinkedList;
 import java.util.List;
-import java.util.ArrayList;
 
 public class ListClientExample {
     private List list;
